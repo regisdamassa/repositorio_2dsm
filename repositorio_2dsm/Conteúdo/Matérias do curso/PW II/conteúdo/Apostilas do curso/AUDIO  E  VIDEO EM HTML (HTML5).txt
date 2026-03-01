@@ -1,0 +1,16 @@
+<div id="audio-video">
+	<audio id="musica" controls="controls">
+		<source src="pasta/nome.mp3" type="audio/mpeg"/>
+		<source src="pasta/nome.m4a" type="audio/x-aac"/>
+		<source src="pasta/nome.ogg" type="audio/ogg"/>
+	</audio>
+	<video id="video" controls="controls" poster="pasta/imagem.jpg">
+		<source src="pasta/nome.mp4" type="video/mp4"/>
+		<source src="pasta/nome.webm" type="video/webm"/>
+		<source src="pasta/nome.ogv" type="video/ogg"/>
+	</video>
+</div>
+
+
+miro video converter programa de conversão gratuito
+
